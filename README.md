@@ -1,0 +1,1 @@
+A simple reddit scraper that shows the top 10 posts in the r/IndianStockMarket subreddit
